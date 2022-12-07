@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\NDH00877\Downloads\IndependentCartanaStore\.metadata\.plugins\org.eclipse.jdt.core
+4070533239.index
+3191647709.index
+1865797976.index
